@@ -1,7 +1,0 @@
-streamlit
-pandas
-geopandas
-statsmodels
-contextily
-matplotlib
-scikit-learn
