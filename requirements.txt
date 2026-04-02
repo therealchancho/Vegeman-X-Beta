@@ -1,7 +1,10 @@
 streamlit
 pandas
+numpy
 geopandas
-statsmodels
+shapely
+pyproj
+scipy
 contextily
 matplotlib
 scikit-learn
